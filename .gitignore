@@ -1,0 +1,9 @@
+/work_dir
+/checkpoint
+/pretrained_model
+/data
+
+# ignore DDRNet dataset
+/lib/dataset/ddrnet_human
+
+*__pycache__
